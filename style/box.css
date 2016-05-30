@@ -1,0 +1,22 @@
+.boxActions {
+	font-size: 0;
+	text-align: center;
+	padding: 10px;
+	margin: 0 20px;
+	border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+.boxActions a {
+	display: inline-block;
+	padding: 6px;
+}
+@media (min-width: 50em) {
+	.boxActions {
+		text-align: left;
+		position: absolute;
+		top: 3%;
+		left: 3%;
+		right: 3%;
+		margin: 0;
+		border-bottom: none;
+	}
+}

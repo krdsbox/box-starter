@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="20" height="22" viewBox="0 0 20 22" preserveAspectRatio="xMidYMid" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://www.boxy-svg.com/bx">
+  <defs>
+    <style>
+      .front {
+        fill: rgba(255,255,255,0.4);
+      }
+		.back {
+			fill: rgba(255,255,255,0.2);
+		}
+    </style>
+  </defs>
+  <path class="back" d="M 13.655 21 L 0 21 L 0 6.963 L 5.082 1.97 L 5.082 15.695 L 15.561 15.695" bx:origin="0.5 0.5"/>
+  <path class="front" d="M 13.648 20.966 L 20 14.728 L 20 1 L 6.979 1 L 6.979 6.305 L 14.602 6.305 L 14.602 15.664 L 13.648 20.966 Z" bx:origin="0.5 0.5"/>
+</svg>

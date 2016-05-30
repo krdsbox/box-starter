@@ -1,0 +1,10 @@
+{
+	"name": "Box starter",
+	"description": "An optional & minimal starter kit for krdsbox components",
+	"author": "Moorthy",
+	"author-email": "moorthy.g@krds.fr",
+	"image": "absolute path of 500x500 jpg ( empty string if no image )",
+	"gif": "absolute path of 500x500 gif ( empty string if no image )",
+	"tags": "comma, separated, tags",
+	"repo-url": "https://github.com/krdsbox/box-starter"
+}
